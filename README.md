@@ -35,7 +35,6 @@ my_app/lib/
 |   |   └── app_data.dart
 |   |   └── app_repository.dart 
 |   |   └── app_storage.dart 
-|   |   └── app_inj.dart
 |   └── constant/                   # App Constants
 |   |   └── colors
 |   |   └── style
@@ -43,7 +42,6 @@ my_app/lib/
 |   └── error/                      # Exceptions Models
 |   |   └── exceptions.dart
 |   └── utils/                      # App Helpers
-|   |   └── api_basehelper.dart
 |   |   └── app_navigator.dart
 |   └── widgets/                    # App Custom Widgets
 ├── features/                       # App Features
@@ -51,11 +49,7 @@ my_app/lib/
 |   |   └── data/
 |   |   |   └── datasource/
 |   |   |   └── model/
-|   |   |   └── repositories/
-|   |   └── domain/
-|   |   |   └── entities/
-|   |   |   └── repositories/
-|   |   |   └── usecases/               
+|   |   |   └── repositories/              
 |   |   └── presentation/
 |   |   |   └── cubit/
 |   |   |   └── pages/
